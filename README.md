@@ -1,6 +1,6 @@
-# notes-on-complexity-theory
+# notes-on-ZK-and-Complexity-Theory
 
-Experimentation and Implementation on complexity theory on jupyter notebook.
+Experimentation and implementation of ZK and Complexity Theory in jupyter notebook.
 
 Includes:
 
