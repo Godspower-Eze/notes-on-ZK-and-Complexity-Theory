@@ -9,3 +9,4 @@ Includes:
 - [Sumcheck Protocol](/sumcheck.ipynb)
   - Interactive Proof for Matrix Multiplication
   - Interactive Proof for Counting Triangles
+  - Non-interactive GKR Protocol(WIP)
